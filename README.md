@@ -1,13 +1,13 @@
-## Admin on rest usando api (https://github.com/luc0/luco-admin-api)
+## Admin on rest usando api ([ver proyecto](https://github.com/luc0/luco-admin-api))
 
 #### Admin
 ```
 Yarn start
 ```
-#### Api (https://github.com/luc0/luco-admin-api)
-Lo levanto con laradock. [https://github.com/laradock/laradock]
+#### Api ([ver proyecto](https://github.com/luc0/luco-admin-api))
+Lo levanto con laradock.
 ```
-docker compose up /d postgres nginx
+docker compose up -d postgres nginx
 ```
 
 #### Aviso
